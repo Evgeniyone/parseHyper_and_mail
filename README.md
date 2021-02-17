@@ -1,2 +1,2 @@
 # parseHyper_and_mail
-Please install curl. https://github.com/curl/curl
+This upplication use curl, you can get in https://github.com/curl/curl/
