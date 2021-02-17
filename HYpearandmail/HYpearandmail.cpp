@@ -22,7 +22,7 @@ class HyperandEmail
 private:
 	string text;
 	set <string> hyperlinks;
-	
+	int c = 0;
 	set <string> email;
 
 public:
