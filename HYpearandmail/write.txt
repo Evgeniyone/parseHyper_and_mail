@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <html>
+        <body>
+            <h2>heading</h2>
+            <p>
+                blah blah
+           <a href="http://www.cplusxvdfdfffus.com/forum/general/182654/">Get All Hyperlinks</a>
+                more blah blah
+                <a href="en.cppreference.com/w/cpp/regex">Regular expressions library</a>
+                blah
+                <a href="https://isocpp.org/std">Standardization</a>
+				http://qaru.site/questions/12275229/how-to-check-a-specified-string-is-a-valid-url-or-not-using-c-code
+                blah blah
+            </p>
+			www.cplusplus.com/forum/general/182654/
+            <p>
+                <h3>user profiles</h3>
+                <a href="http://www.cplusplus.com/user/Calvin_19/">User profile: Calvin 19</a>
+            </p>
+        </body> president@whitehouse.gov
+    </html> president@whitehsedrouse.gov
+)" ;https://isocpp.org/std
